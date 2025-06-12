@@ -19,7 +19,7 @@ Music enthusiasts and data analysts often struggle to:
 This pipeline solves these challenges by creating an end-to-end automated system for Spotify data processing and analysis.
 
 ## 🏗️ Architecture
-   
+   ![Image](https://github.com/user-attachments/assets/a38dc4ef-50b0-429d-8f25-867bd54f0ec9)
  
 ## 🛠️ Technologies Used
 
@@ -60,6 +60,7 @@ This pipeline solves these challenges by creating an end-to-end automated system
 
 The pipeline organizes data into three main categories:
 
+![Image](https://github.com/user-attachments/assets/e142cbaa-083a-48bb-a8ba-7bf3068be380)
 
 
 ## 📈 Available Analytics
@@ -89,6 +90,8 @@ The pipeline enables comprehensive music analysis through various SQL queries:
 - **Longest Songs** with complete metadata
 - **Average Song Duration** across different artists
 - **Songs Added in Last 30 Days** for trend analysis
+
+![Image](https://github.com/user-attachments/assets/7cadbf85-c91c-423d-8bd3-335533c92070)
 
 ## 🚀 Getting Started
 
@@ -154,19 +157,6 @@ Ideal for professionals and learners wanting to:
 - **Dashboard Integration**: Web-based visualization interface
 - **API Development**: RESTful API for external data access
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
